@@ -1,0 +1,1 @@
+SELECT * FROM alumnos WHERE nombres LIKE '%A%'
